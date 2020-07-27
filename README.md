@@ -22,3 +22,6 @@ Register Pipenv scripts as tasks to run from the command palette or your favouri
 
 Initial release 
 
+## 1.0.1
+
+Added icon
