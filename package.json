@@ -31,15 +31,7 @@
 					}
 				}
 			}
-		],
-		"views": {
-			"explorer": [
-				{
-					"id": "pipenvScripts",
-					"name": "Pipenv Scripts"
-				}
-			]
-		}
+		]
 	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
