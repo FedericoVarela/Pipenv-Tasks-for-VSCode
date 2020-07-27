@@ -1,7 +1,7 @@
 {
 	"name": "pipenv-scripts",
 	"displayName": "Pipenv Scripts",
-	"description": "Run scripts from Pipfile from the explorer rab",
+	"description": "Register scripts from Pipfile as tasks",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.47.0"
