@@ -1,9 +1,13 @@
 {
 	"name": "pipenv-scripts",
 	"displayName": "Pipenv Scripts",
-	"publisher": "Federico Varela",
+	"publisher": "FedericoVarela",
 	"description": "Register scripts from Pipfile as tasks",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FedericoVarela/Pipenv-Tasks-for-VSCode.git"
+	},
 	"engines": {
 		"vscode": "^1.47.0"
 	},
