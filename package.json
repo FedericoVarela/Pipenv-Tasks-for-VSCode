@@ -1,6 +1,7 @@
 {
 	"name": "pipenv-scripts",
 	"displayName": "Pipenv Scripts",
+	"publisher": "Federico Varela",
 	"description": "Register scripts from Pipfile as tasks",
 	"version": "0.0.1",
 	"engines": {
