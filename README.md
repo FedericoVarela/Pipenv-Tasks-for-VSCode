@@ -29,3 +29,7 @@ Added icon
 ## 1.0.2
 
 Fixed icon size requirement
+
+## 1.0.3
+
+Added a better icon
