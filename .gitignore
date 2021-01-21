@@ -1,3 +1,5 @@
 node_modules
 **.zip
 token.txt
+vsc-extension-quickstart.md
+**.vsix
